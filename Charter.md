@@ -73,7 +73,7 @@ Passing: 100% of officer participation, simple majority
 Donations through defined channels (must be public for transparency?)
 (Kickstarter?)
 
-### Officer Responsibilities
+## Officer Responsibilities
 * **CEO** - Chief Executive Officer
 
 Executing the Party Platform
