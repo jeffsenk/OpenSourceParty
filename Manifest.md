@@ -22,7 +22,7 @@ We assert that the US government is at a similar turning point. The dominant pol
 
 The name of this party is the **Open Source Party**. The name is meant to reflect our aims of radical transparency and inclusion of Americans from all walks of life, as well as a focus on technological growth as the means toward shared prosperity.
 
->Government is perhaps the last systemically important sector of American society that has yet to be fundamentally transformed by modern communication technology. The Constitution of the United States is over 240 years old, and was composed at a time when the fastest medium of communication was a messenger on horseback. The younger of the two major political parties, the Republican Party, was formed in 1854. If neither party is able to elucidate a path forward that appeals to the majority of Americans, then it is time for a new party.
+>Government is perhaps the last systemically important sector of American society that has yet to be fundamentally transformed by modern communication technology. The Constitution of the United States is over 240 years old, and was composed at a time when the fastest medium of communication was a messenger on horseback. The younger of the two major political parties, the Republican Party, was formed in 1854.
 
 # Platform
 The Open Source Party platform is composed of two main sections: Communication and Leadership. These sections refer to the two guiding forces of a democratic government: the will of the people and the wisdom of its elected representatives.
