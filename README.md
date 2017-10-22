@@ -10,6 +10,7 @@ Although the initial use case is a political party, we believe the project is al
 * Government is a collection of rules, like any imperative program
 * Radical Transparency
 * Constant Constituent / Representative Feedback
+* Technological Advance is the primary driver of Economic Growth
 * Data Driven Policy Decisions
 * Open Source: governing rules should be available and *intelligible* to all
 
