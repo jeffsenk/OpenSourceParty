@@ -10,7 +10,7 @@ We assert that the current government of the United States no longer represents 
 
 The representatives elected to represent these ideologues hold fundamentally irreconcilable views. Thus the legislature has become mired in stalemate over inconsequential issues and it is completely incapable of exercising leadership. Our country has stopped pursuing the ambitious goals of a properly functioning democracy.
 
-The news media portrays the United States as a “polarized” society, “blue states” and “red states.” We believe this is a false dichotomy. It is not the American citizenry that is incapable of compromise and pursuing a common interest. It is the current political system that empowers narrow fractions.
+The news media portrays the United States as a polarized society, "blue states" and "red states." We believe this is a false dichotomy. It is not the American citizenry that is incapable of compromise and pursuing a common interest. It is the current political system that empowers narrow fractions.
 
 ## The Open Source Party
 Although the polarization of American politics can be partially blamed on the emergence of social networking technology, the solution is not less communication. The solution is a government that fully comprehends the power as well as the risks of technology, and is able to filter and channel the multitude of voices into a productive direction. The unfortunate truth is that most of the politicians in office today are technically illiterate and unqualified to face the challenges of the 21st century. 
@@ -38,7 +38,7 @@ The problem is not that constituents do not contact their representatives. The p
 
 Our solution is a structured data platform for mobile devices and the web. Instead of email, voters are presented with a selection of issues and bills currently under consideration by congress. The voter is then asked to express their opinion (for or against), and may add any supporting arguments which will appear in the comment thread. The congressperson is then presented with data they can quickly and easily make sense of: how many voters are for or against a specific bill, sorted by various demographic factors such as age, location, ethnicity etc. Once the representative votes on the issue, their position is then published on the same platform.
 
-The first tenet of our communication strategy is constant feedback: there is no reason why a voter’s email should disappear into a black hole, or the only interaction you have with your government comes every 4 years. Communication can be instant and meaningful, and it should be.
+The first tenet of our communication strategy is constant feedback: there is no reason why a voter's email should disappear into a black hole, or the only interaction you have with your government comes every 4 years. Communication can be instant and meaningful, and it should be.
 
 
 ### Radical Transparency
@@ -47,11 +47,11 @@ The second tenet of the communication strategy is radical transparency. We belie
 The ultimate goal is for all debate and communication between sitting members of Congress to eventually be migrated onto a digital platform, where it is made available for public viewing. We believe that full transparency will go a long way to improve trust in the political system.
 
 ### Online Voting
-The first tool deals with votes where the electorate’s opinion matters, but the decision ultimately comes down to the representative. In other cases, such as a Presidential election, a binding vote by the citizenry is required. During the 2016 Presidential election, under 60% of the eligible populace voted. Voter turnout for local elections are typically below 30%.
+The first tool deals with votes where the electorate's opinion matters, but the decision ultimately comes down to the representative. In other cases, such as a Presidential election, a binding vote by the citizenry is required. During the 2016 Presidential election, under 60% of the eligible populace voted. Voter turnout for local elections are typically below 30%.
 
 The current ballot process requires voters to appear at a designated polling location, typically during a weekday. This unfairly disadvantages those with restricted mobility, or financial / professional constraints that keep them from arriving at the designated time. But more fundamentally, it creates an inconvenience out of something which should be quick and effortless.
 
-We propose that all official votes at the local, state, and national levels be migrated onto a digital (and preferably mobile) platform. By lowering the barrier to participation, we expect a much higher participation rate and thus a more accurate reflection of the people’s will. The tools exist today to remotely verify a voter’s identity using biometric data. We simply lack the political will to use them.
+We propose that all official votes at the local, state, and national levels be migrated onto a digital (and preferably mobile) platform. By lowering the barrier to participation, we expect a much higher participation rate and thus a more accurate reflection of the people's will. The tools exist today to remotely verify a voter's identity using biometric data. We simply lack the political will to use them.
 
 >One such tool is the mobile app [Voatz](https://voatz.com/).
 
@@ -84,7 +84,7 @@ The maintenance of a healthy ecosystem is essential to the operation of a health
 Advances in Physics, Chemistry, and Biology benefit not only American society but all of mankind. However these discoveries are often too time consuming for private industry to take the risk. Here the government must socialize the risk and widely distribute the eventual reward.
 
 ### Education in Hard Sciences:
-The first step in creating a world class scientific research community is primary and secondary education in Math, Science, and Computer Literacy. Given the United States’ dominant position in the world tech industry, our low standing in the educational rankings is unacceptable.
+The first step in creating a world class scientific research community is primary and secondary education in Math, Science, and Computer Literacy. Given the United States' dominant position in the world tech industry, our low standing in the educational rankings is unacceptable.
 
 Education must also be viewed as a continuing, lifelong process. As the economy rapidly changes and evolves, so too must our workforce continually learn new skills. We propose the establishment of an adult education system.
 
@@ -97,8 +97,8 @@ Our highways, airports, and fibre optic networks are all in need of an overhaul.
 Large government projects do not need to be a drain on taxpayer resources. When administered in the right fashion, these programs are engines of job creation and sources of scientific breakthroughs that are profitably applied in the private sector.
 
 
-## Protecting Citizen’s Rights
-American citizens’ rights to life, liberty, and the pursuit of happiness may be threatened by both domestic and foreign sources. Domestically, it is the police and courts that protect us. Internationally, it is the Armed Forces.
+## Protecting Citizens Rights
+American citizens' rights to life, liberty, and the pursuit of happiness may be threatened by both domestic and foreign sources. Domestically, it is the police and courts that protect us. Internationally, it is the Armed Forces.
 
 ### Domestic Threats
 Our social policy is a simple application of the liberty principle: a consenting adult may do anything he or she wishes with their own property, physical person or mind, so long as it does not impinge on the liberty of another. 
@@ -106,7 +106,7 @@ Our social policy is a simple application of the liberty principle: a consenting
 There are many groups in the United States today that would reduce the liberty of other Americans. We will work to ensure that they do not succeed.
 
 ### Foreign Threats
-Our dependance on the internet in almost every aspect of life also creates new security threats. As the 2016 election showed, the US is not fully prepared to address the threat of state-backed hackers. We propose increased funding for cybersecurity in the US armed forces. We also support funding for remote military capabilities to put fewer American service men and women in harm’s way.
+Our dependance on the internet in almost every aspect of life also creates new security threats. As the 2016 election showed, the US is not fully prepared to address the threat of state-backed hackers. We propose increased funding for cybersecurity in the US armed forces. We also support funding for remote military capabilities to put fewer American service men and women in harm's way.
 
 ## Data Driven Policy
 The final plank of the Open Source Party platform is data driven decision making. Whenever a policy decision must be made, whether in the arenas of education, public spending, or the military, it must be backed by quantifiable metrics showing why it is the best course of action. The Party does not make decisions based on the whim of a single representative or the lobbying of an interest group. Every decision must be shown to fulfill one of the two mandates of government: the greatest good for the greatest number of people, or the protection of a vulnerable group.
@@ -115,4 +115,4 @@ The final plank of the Open Source Party platform is data driven decision making
 ## Conclusion
 There was a time, not long ago, when the American government was capable of true leadership. In 1961 President Kennedy outlined an ambitious plan to accelerate the space program, with the twin goals of ensuring American preeminence in space and democracy on earth. The nation rallied to his call, and a mere 8 years later a man walked on the Moon. The politicians of today are mired in skirmishes about minor issues that divide our country, while the crucial issues with the potential to unite the country fall by the wayside. It is time for the government to lead again. It is time to guarantee that the American Century becomes the American Millennium. It is time for the Open Source Party.
 
->“We choose to go to the moon. We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win.” -JFK
+>"We choose to go to the moon. We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win." -JFK
